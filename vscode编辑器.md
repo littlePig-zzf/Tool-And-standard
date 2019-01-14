@@ -13,3 +13,4 @@
 - Prettier - Code formatter   代码规范
 - TurboJavascript   输入代码快捷键提高代码速度
 - vetur   vue的工具
+- https://github.com/tonsky/FiraCode vscode字体的引用，看起来更加友好
