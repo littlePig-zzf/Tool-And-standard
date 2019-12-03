@@ -1,0 +1,8 @@
+快捷键指令合集： https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh
+
+1. 打开当前系统用户文件夹，有.bashrc文件，没有就新建
+
+2. 将上面地址中的快捷键复制到bashrc文件中，然后使用 source ~/.bashrc 重新生效
+
+后面就在git 命令行开心使用快捷键啦~~~
+
