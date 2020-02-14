@@ -18,7 +18,7 @@
 - https://github.com/tonsky/FiraCode vscode字体的引用，看起来更加友好
 
 settings.json 用户配置文件内容如下：
-
+```javascript
 {
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "Fira Code",
@@ -45,3 +45,4 @@ settings.json 用户配置文件内容如下：
     "sync.gist": "c34290d414d0de57d9a7639cfe720d27",
     "workbench.colorTheme": "Monokai",
 }
+```
